@@ -1,0 +1,7 @@
+chroma_data/
+__pycache__/
+*.pyc
+*.pyo
+*.xlsx
+.vscode/
+.git/

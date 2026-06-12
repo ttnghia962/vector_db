@@ -1,0 +1,14 @@
+# Vector Databases
+chromadb>=0.5.0
+pinecone-client>=3.0.0
+qdrant-client>=1.9.0
+weaviate-client>=4.6.0
+
+# Embedding Models (chạy local, không cần API key)
+sentence-transformers>=3.0.0
+
+# Optional: OpenAI embeddings
+# openai>=1.0.0
+
+# Utilities
+numpy>=1.24.0
